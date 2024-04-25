@@ -115,7 +115,7 @@ margin-bottom: 25px;
 }
 
 .hero-img img {
- width: 700px; 
+ width: 900px; 
  margin: 10% 0 0 10%;
  height: auto;
  transition: all 5s linear; /* esto hace que la transicion sea lineal*/
@@ -196,7 +196,7 @@ margin-bottom: 25px;
 
 /* Aca vamos a hacer mediaqueries para que la web sea responsive*/
 
-@media(max-width:992){
+@media(max-width:992px){
     section{
         padding: 0 3%;
         transition: .2s;
